@@ -2,7 +2,7 @@
 First project in project Machine Learning Nanodegree Udacity. 
 
 ## About
-This repository consists of a deployement of a neural network to classify movie reviews. The architecture of the NN is a LSTM module with 200 hidden units and 64 dimensional embeddings followed by a fully-connected layer and a sigmoid.
+This repository consists of a deployement of a neural network to classify movie reviews. The architecture of the NN is a LSTM module with 200 hidden units and 32 dimensional embeddings followed by a fully-connected layer and a sigmoid.
 
 The training is performed over the [IMDb dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 
