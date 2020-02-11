@@ -22,6 +22,8 @@ You would need to clone this repository in a jupyter environment in SageMaker. T
 
 When deployed, [this webpage](website/index.html) should be working properly if the correct endpoint and API gateway are set up. You would need to modify this url!
 
+<include src="website/index.html"></include>
+
 ## Requirements
 In principle if it is run in AWS, the requirements are included in the folder train:
 
