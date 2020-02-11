@@ -13,7 +13,7 @@ The training is performed over the [IMDb dataset](http://ai.stanford.edu/~amaas/
 - [SentimentAnalysis pdf](SentimentAnalysis.pdfy).
 - [Web app (off)](website/index.html)
 
-<img src="Screenshot.png" alt="Screenshot" style="width: 200px;"/>
+<img src="Screenshot.png" alt="Screenshot" style="width: 100%;"/>
 
 
 ## Getting Started
