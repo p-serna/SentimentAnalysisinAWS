@@ -11,9 +11,9 @@ The training is performed over the [IMDb dataset](http://ai.stanford.edu/~amaas/
 
 ## Getting Started
 
-You would need to clone this repository in a jupyter environment in SageMaker. Then open the jupyter notebook SageMaker Project.ipynb and follow it.
+You would need to clone this repository in a jupyter environment in SageMaker. Then open the jupyter notebook [SageMaker Project](SageMaker Project.ipynb) and follow it. Alternatively, you can have a look at a snapshot of the jupyter notebook in pdf: [SentimentAnalysis](SentimentAnalysis.pdf).
 
-When deployed, the file website/index.html should be working properly if the correct endpoint and API gateway are set up. You would need to modify this url!
+When deployed, [this webpage](website/index.html) should be working properly if the correct endpoint and API gateway are set up. You would need to modify this url!
 
 ## Requirements
 In principle if it is run in AWS, the requirements are included in the folder train:
