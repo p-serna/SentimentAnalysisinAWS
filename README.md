@@ -10,7 +10,7 @@ The training is performed over the [IMDb dataset](http://ai.stanford.edu/~amaas/
 
 ## For Review
 
-- SentimentAnalysis notebook: [pdf](SentimentAnalysis.pdfy) or [html](SentimentAnalysis.html).
+- SentimentAnalysis notebook: [pdf](SentimentAnalysis.pdf) or [html](SentimentAnalysis.html).
 - [Web app (off)](website/index.html)
 - [Questions and answers only.](Questions_only.html)  
 
