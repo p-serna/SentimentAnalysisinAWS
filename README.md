@@ -15,6 +15,7 @@ The training is performed over the [IMDb dataset](http://ai.stanford.edu/~amaas/
 - [Questions and answers only.](Questions_only.html)  
 
 
+Example using a movie review of the Emoji movie taken from [insider](https://www.insider.com/) and was written at [the Verge](https://www.theverge.com/).
 
 <img src="Screenshot.png" alt="Screenshot" style="width: 100%;"/>
 
